@@ -13,7 +13,7 @@ Run the bot and tyep the *exact* name of your sprite (without .png)
 
 Main keys:
 | Key | Description |
-| :---: | :--- |
+| :---: | :---: |
 | Q | Load object *Pokemon* |
 | W | Write object *Pokemon* |
 | E | Print object *Pokemon* |
