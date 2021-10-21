@@ -17,6 +17,7 @@ KEY_PRINT = 'e'
 
 while not HUNTING:
     HUNTING = input('Insert sprite name (without extension): ')
+    DIR = 'sprite/' + HUNTING + '.png'
 
 huntedPkmn = Pokemon(HUNTING)
 
