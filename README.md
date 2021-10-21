@@ -10,11 +10,11 @@ pip install pyautogui pynput json
 ## Usage
 Open yuor emulator and find the pokemon you want to hunt.
 
-![example_1](https://pasteboard.co/bqcI8UibbF1i.png)
+![example_1](https://gcdn.pbrd.co/images/bqcI8UibbF1i.png?o=1)
 
 Now screenshot the sprite of the desired pokemon.
 
-![example_2](https://pasteboard.co/55fbFj4AXIOJ.png)
+![example_2](https://gcdn.pbrd.co/images/55fbFj4AXIOJ.png?o=1)
 
 Create the directory /sprite in the same directory of *main.py* and put your screenshot in there.
 
