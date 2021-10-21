@@ -8,10 +8,18 @@ pip install pyautogui pynput json
 ```
 
 ## Usage
-Put your screenshots (png format) in *./sprite*.
-Run the bot and tyep the *exact* name of your sprite (without .png)
+Open yuor emulator and find the pokemon you want to hunt.
 
-Main keys:
+![example_1](https://pasteboard.co/bqcI8UibbF1i.png)
+
+Now screenshot the sprite of the desired pokemon.
+
+![example_2](https://pasteboard.co/55fbFj4AXIOJ.png)
+
+Create the directory /sprite in the same directory of *main.py* and put your screenshot in there.
+
+
+## Cheat Sheet:
 | Key | Description |
 | :---: | :---: |
 | Q | Load object *Pokemon* |
@@ -20,3 +28,5 @@ Main keys:
 | A | Set shiny color |
 | S | Center mouse on detected sprite |
 | D | Set normal color | 
+| Esc | Start hunting
+
